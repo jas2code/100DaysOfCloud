@@ -23,12 +23,12 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 [✍️ Tell us where you want to be at the end of the challenge]
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/jamesalansweeny)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
+- [x] ☁️ 1 > [My First Day](Journey/001/Readme.md) Prep work for AZ-900 3/15/2021
+- [x] ☁️ 2 > [](Journey/002/Readme.md) Passed AZ-900 / Microsoft training for AI-900 
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
